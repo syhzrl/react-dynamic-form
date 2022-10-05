@@ -1,0 +1,22 @@
+.inputWrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.inputLabel {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.input {
+    padding: 10px;
+    border: 1px solid #DEDEDE;
+    border-radius: 5px;
+    outline: none;
+}
+
+.inputError {
+    font-size: 18px;
+    font-weight: bold;
+    color: red;
+}
